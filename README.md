@@ -160,9 +160,10 @@ Below is a list of mods that are recommended for the server, with the first two 
 - [Carpet](https://modrinth.com/mod/carpet/version/1.4.112) - useful for speeding up wait times between games of Decked Out 2
 - [Lithium](https://modrinth.com/mod/lithium/version/mc1.20.1-0.11.2) - general optimizations
 - [FerriteCore](https://modrinth.com/mod/ferrite-core/version/6.0.0-fabric) - memory usage optimizations
-- [View Distance Fix](https://modrinth.com/mod/view-distance-fix/version/fabric-1.20.1-1.0.0) - fix for when the client's render distance is different the server's
+- [View Distance Fix](https://modrinth.com/mod/view-distance-fix/version/fabric-1.20.1-1.0.0) - fix for when the client's render distance is different from the server's
 
-Simply move the mods into the server's "mods" folder and the server will handle the rest.
+Simply move the mods into the server's "mods" folder and the server will handle the rest.\
+You can also find these mods in the **Versions** tab. You will have to download the modpack through the Modrinth launcher and find them in the mods folder. To find them, click on the Folder button and open the "mods" folder.
 
 ### Voice chat setup
 If you relied on port-forwarding for the server's setup, you will need port-forwardig for the Simple Voice Chat mod. The port for it is <code>24454</code>. If you need a recap on port-forwarding, well... Here we go again!
