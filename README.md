@@ -479,6 +479,31 @@ Welcome to the end of the guide. If you run into any problems or you want to kno
   If you downloaded the Hermitcraft 9 world, you can also find them in the "datapacks" folder.
   
 </details>
+<details>
+  <summary>Previous Hermitcraft seasons</summary>
+  
+  All world downloads can be found on Hermitcraft's own [website](https://hermitcraft.com/ "hermitcraft.com"), in the left panel and under "Maps". To download a zip file, click the "Java" text of the desired season.\
+  *For example, "Vanilla S9" is for Season 9 while "Vanilla S8" is for Season 8.*\
+  Right-click on the zip file and click "Extract all...", then in the popup, click "Extract". This will create a new folder.\
+  For singleplayer, move the folder into your Minecraft's "saves" folder.\
+  For servers, rename the folder to <code>world</code> and move it into the server files.
+  
+  [Hermitcraft Season 8 Info thread](https://www.reddit.com/r/HermitCraft/comments/o3dkbk/season_eight_information_thread/)\
+  Minecraft version: **1.17.1**\
+  Resource pack: **Yes:** [(link)](https://mc-packs.net/download/5882b5a8a9e615a3721038212dfaf1332032ba3f)\
+  Required mods: **None**
+  
+  [Hermitcraft Season 7 Info thread](https://www.reddit.com/r/HermitCraft/comments/fawpxh/season_seven_information_thread/)\
+  Minecraft version: **1.16.4**\
+  Resource pack: **None**\
+  Required mods: **None**
+  
+  [Hermitcraft Season 6 Info thread](https://www.reddit.com/r/HermitCraft/comments/906jp9/seasons_6_information_thread/)\
+  Minecraft version: **1.14.4**\
+  Resource pack: **None**\
+  Required mods: **None**
+  
+</details>
 
 ---
 
